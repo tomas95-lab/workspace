@@ -1,0 +1,3 @@
+# especificar archivos/rutas/carpetas/etc. que no quiero que vayan a mi repositorio
+
+.env
